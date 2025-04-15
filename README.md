@@ -22,7 +22,7 @@ A única limitação é o uso requerido do framework React.js para JavaScript.
 
 Você tem total liberdade para usar as demais bibliotecas que mais lhe fornecerem produtividade.
 
-## Tempo proposto de conclusão e o que estamos avaliando
+## O que estamos avaliando
 
 Este teste busca avaliar as seguintes competências:
 
