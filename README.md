@@ -32,3 +32,6 @@ Este teste busca avaliar as seguintes competências:
 - Domínio sobre APIs do Framework React.jS e árvore DOM.
 
 
+## Para Rodar
+
+- execute o comando npm run dev e acesse a url indica
